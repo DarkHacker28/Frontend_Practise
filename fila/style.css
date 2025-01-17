@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.wit:hover{
+    background: rgba(3, 56, 92, 0.673);
+    transition: 1.02s;
+    border-radius: 30px;
+}
+.ws{
+    text-decoration: none;
+    color: rgb(3, 56, 92);
+    font-weight: 600;
+    font-size: 50px;    
+}
+.ww{
+    opacity: 0.5;
+}
+.ww:hover{
+    opacity: 1;
+    transition: 1.05s;
+}
+.ww1:hover{
+    transform: scale(1.03,1.03);
+    transition: 1.5s;
+}
+.card1{
+    width: 200px;
+    height: 450px;
+    /* border: 2px solid black; */
+    
+}
+.b1{
+    background: rgb(226, 224, 224);
+}
+.footer1 a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    transition: all 0.5s ease;
+}
+
+.footer1 a:hover {
+    margin: 10px;
+    color: rgb(7, 252, 252);
+}
+
+.footer1 h3 {
+    color: rgb(7, 252, 252);
+}
